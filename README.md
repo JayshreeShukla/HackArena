@@ -1,4 +1,10 @@
 ## Multilingual Sarcasm Detection in Social Media.
+Developed a sarcasm detection model using NLP techniques with FastText, mBERT, and XLM-R embed-
+dings.
+Experimented with Logistic Regression, Decision Tree, SVM, XGBoost, and Random Forest models for
+performance comparison.
+Achieved 98% accuracy using an Artificial Neural Network (ANN).
+Outperformed 100+ teams, securing 1st place in the final round among 15 teams.
 
 ## Project Overview
 This project utilizes various data sources to perform analysis and build models within a Jupyter Notebook (`.ipynb`). The primary sources used in this project include:
