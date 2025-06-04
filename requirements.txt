@@ -1,0 +1,6 @@
+pandas
+numpy
+nltk
+vaderSentiment
+tensorflow
+scikit-learn
